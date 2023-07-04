@@ -1,4 +1,4 @@
-package com.apper.estore;
+package com.apper.estore.payload;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.Email;

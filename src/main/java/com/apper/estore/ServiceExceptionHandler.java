@@ -1,5 +1,6 @@
 package com.apper.estore;
 
+import com.apper.estore.payload.ServiceError;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
