@@ -134,3 +134,10 @@ Add the dependency:
    <scope>runtime</scope>
 </dependency>
 ```
+
+Add the following to `application.properties`:
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/estoredb
+spring.datasource.username=root
+spring.datasource.password=123qwe
+```
