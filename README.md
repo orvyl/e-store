@@ -115,6 +115,8 @@ public class ServiceExceptionHandler {
         "message": "age must be at least 15 yrs old"
       }
    ```
+   
+   EMAIL SUBJECT:  [Spring Boot 101 | Day 3 | Lab 1] <name>
 
 ---
 
