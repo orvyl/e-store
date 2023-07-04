@@ -107,6 +107,14 @@ public class ServiceExceptionHandler {
       
       }
    ```
+   
+   Invalid age must have a response:
+   ```json
+      400 BAD_REQUEST
+      {
+        "message": "age must be at least 15 yrs old"
+      }
+   ```
 
 ---
 
