@@ -116,7 +116,7 @@ public class ServiceExceptionHandler {
       }
    ```
    
-   EMAIL SUBJECT:  [Spring Boot 101 | Day 3 | Lab 1] <name>
+   EMAIL SUBJECT:  [Spring Boot 101 | Day 3 | Lab 1] your-name
 
 ---
 
